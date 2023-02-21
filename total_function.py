@@ -5,6 +5,6 @@ def main():
     custom_list = [12, 34, 53.34, 75, 44.65, 87.6]
     print(f'Среднее арифметическое данного списка равно {total_average(custom_list)}')
 
-
+    # Это я просто пишу дя проверки
 if __name__ == '__main__':
     main()
